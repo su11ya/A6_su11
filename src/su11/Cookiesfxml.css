@@ -1,0 +1,10 @@
+
+#sellBox, #bakeBox{
+    -fx-border-style: dashed;
+    /* the size of inside border*/
+    -fx-padding: 10px;
+/*    the size of outside border*/
+    -fx-border-insets: 10px;  
+    -fx-background-insets: 5px;
+    -fx-border-color: green;
+}
